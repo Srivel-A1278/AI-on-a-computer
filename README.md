@@ -5,10 +5,6 @@ Voice-activated autonomous AI agent that interprets natural-language goals and e
 
 **Status:** Concept / design stage — no code yet.
 
-## Documentation
-
-- [Implementing_AI_on_a_Computer.pdf](./Implementing_AI_on_a_Computer.pdf) — full write-up
-- [Hardware_Components.pdf](./Hardware_Components.pdf) — parts list
 
 ## License
 
